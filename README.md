@@ -1,2 +1,2 @@
 # IaC_Terraform
-Infrastructure as Code using Terraoform
+Infrastructure as Code using Terraform
